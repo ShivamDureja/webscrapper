@@ -4,8 +4,11 @@
    
    
  Easy steps to use this scrapper:
+ 
   -> Download the code 
+ 
   -> Open main.py in your desired editor (preferably pycharm)
+  
   -> Execute main.py text files will be saved automatically.
   
   ![Screenshot 2021-03-11 135530](https://user-images.githubusercontent.com/74757115/110757603-9a811c00-8271-11eb-9257-a44bf5d84296.png)
